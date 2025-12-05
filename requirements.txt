@@ -1,0 +1,21 @@
+# Core Framework
+streamlit>=1.28.0
+
+# Data Processing & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+plotly>=5.17.0
+plotly-express>=0.4.1
+
+# Date/Time Handling
+python-dateutil>=2.8.2
+
+# Optional: For enhanced data manipulation
+openpyxl>=3.1.0  # For Excel file support if needed
+pydantic>=2.0.0  # For data validation if expanding
+
+# Development tools (optional)
+black>=23.0.0    # Code formatting
+pylint>=3.0.0    # Code linting
